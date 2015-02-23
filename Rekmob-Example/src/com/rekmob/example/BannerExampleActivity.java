@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
 
-public class MainActivity extends Activity {
+public class BannerExampleActivity extends Activity {
 
 	static final String REKMOB_AD_UNIT_ID = "ad unit key";
 
